@@ -17,7 +17,7 @@
 
 #st.write('Esta aplicación aún no es funcional. En construcción.')
 
-import scipy.stats
+import scipy.stats as scipy 
 import streamlit as st
 import time
 
