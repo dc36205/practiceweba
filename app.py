@@ -17,8 +17,8 @@
 
 #st.write('Esta aplicación aún no es funcional. En construcción.')
 
-import scipy.stats as scipy 
 import streamlit as st
+import scipy 
 import time
 
 st.header('Lanzar una moneda')
