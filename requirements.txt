@@ -1,4 +1,4 @@
-# Esta app es practiceweba
+# Fichero requirements en practiceweba
 
 streamlit
 numpy
