@@ -1,6 +1,5 @@
 
 # Esta app es practiceweba
-# 
 
 import streamlit as st
 import scipy 
